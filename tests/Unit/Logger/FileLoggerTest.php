@@ -4,8 +4,6 @@ namespace Payever\Tests\Unit\Logger;
 
 use Payever\Sdk\Logger\FileLogger;
 use PHPUnit\Framework\TestCase;
-use PHPUnit\Framework\MockObject\MockObject;
-use PHPUnit_Framework_MockObject_MockObject;
 use Psr\Log\LogLevel;
 
 class FileLoggerTest extends TestCase
